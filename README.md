@@ -24,7 +24,7 @@ yay -S nerd-fonts-dejavu-complete
 yay -S nerd-fonts-jetbrains-mono
 ```
 
-<h3>Jildlarni nusxalash</h3>
+<h3>O'rnatish:</h3>
   
 ```
 git clone https://github.com/UsmonHamidulloh/i3wm-dotfiles
