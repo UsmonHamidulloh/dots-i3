@@ -2,27 +2,25 @@
   <img src="https://github.com/UsmonHamidulloh/i3wm-dotfiles/blob/main/image.png?raw=true">
 </p>
 
-- <b>Operatsion tizim:</b> ArchLinux
-- <b>Shell:</b> fish (oh my fish)
+- <b>Operatsion tizim:</b> Arch Linux
+- <b>Shell:</b> fish
 - <b>WM</b>: i3
 - <b>Shirft:</b> JetbrainsMono Nerd fonts + DejaVu Sans Mono
 
-<h3>Kerakli package'larni o'rnatish (arch/arch-based):</h3>
+<h3>Kerakli paketlar:</h3>
 
-```
-sudo pacman -Syyu
-sudo pacman -S alacritty
-sudo pacman -S feh
-yay -S polybar
-yay -S picom-ibhagwan-git
-```
+- <a href="https://archlinux.org/packages/extra/x86_64/feh">feh</a>
+- <a href="https://archlinux.org/packages/community/x86_64/rofi">rofi</a>
+- <a href="https://archlinux.org/packages/community/x86_64/alacritty">alacritty</a>
+- <a href="https://archlinux.org/packages/community/x86_64/flameshot">flameshot</a>
+- <a href="https://archlinux.org/packages/community/x86_64/polybar">polybar</a> (AUR)
+- <a href="https://aur.archlinux.org/packages/picom-ibhagwan-git">picom ibhagwan</a> (AUR)
 
-<h3>Kerakli shirftlarni o'rnatish (arch/arch-based):</h3>
+<h3>Kerakli shirftlar:</h3>
 
-```
-yay -S nerd-fonts-dejavu-complete
-yay -S nerd-fonts-jetbrains-mono
-```
+- <a href="https://aur.archlinux.org/packages/nerd-fonts-jetbrains-mono">Nerd Fonts Jetbrains Mono</a> (AUR)
+- <a href="https://aur.archlinux.org/packages/nerd-fonts-dejavu-complete">Nerd Fonts Dejuva Complete</a> (AUR)
+
 
 <h3>O'rnatish:</h3>
   
