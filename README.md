@@ -33,3 +33,6 @@ cp -r polybar/ ~/.config/
 cp -r wallpaper/ ~/.config/
 cp picom.conf ~/.config/
 ```
+
+
+O'rnatish davomida qandaydir muammolar yuzaga kelsa, <a href="https://t.me/UsmonHamidulloh">telegram</a>dan yoki <a href="https://github.com/UsmonHamidulloh/i3wm-dotfiles/discussions">discussions</a>dan yordam so'rsangiz bo'ladi.
