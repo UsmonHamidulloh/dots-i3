@@ -23,16 +23,22 @@
 
 
 <h3>O'rnatish:</h3>
-  
+
+Configlarni githubdan klon qilib olamiz
 ```
 git clone https://github.com/UsmonHamidulloh/i3wm-dotfiles
+```
+Keyin configlar joylashgan jildga kiramiz
+```
 cd i3wm-dotfiles/
+```
+Endi esa barcha configlarni <code>.config</code> jildiga nusxalaymiz
+```
 cp -r alacritty/ ~/.config/
 cp -r i3/ ~/.config/
 cp -r polybar/ ~/.config/   
 cp -r wallpaper/ ~/.config/
 cp picom.conf ~/.config/
 ```
-
-
+#
 O'rnatish davomida qandaydir muammolar yuzaga kelsa, <a href="https://t.me/UsmonHamidulloh">telegram</a>dan yoki <a href="https://github.com/UsmonHamidulloh/i3wm-dotfiles/discussions">discussions</a>dan yordam so'rasangiz bo'ladi.
