@@ -40,5 +40,8 @@ cp -r polybar/ ~/.config/
 cp -r wallpaper/ ~/.config/
 cp picom.conf ~/.config/
 ```
+<h3>Copyright:</h3>
+Wallpaper, "<a href="https://www.imdb.com/title/tt5311514">Your name</a>" filmidan olinib, biroz ishlov berilgan.
+
 #
 O'rnatish davomida qandaydir muammolar yuzaga kelsa, <a href="https://t.me/UsmonHamidulloh">telegram</a>dan yoki <a href="https://github.com/UsmonHamidulloh/i3wm-dotfiles/discussions">discussions</a>dan yordam so'rasangiz bo'ladi.
