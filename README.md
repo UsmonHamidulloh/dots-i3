@@ -40,7 +40,7 @@ cp -r polybar/ ~/.config/
 cp -r wallpaper/ ~/.config/
 cp picom.conf ~/.config/
 ```
-<h3>Copyright:</h3>
+<h3>Mualliflik huquqi:</h3>
 Wallpaper, "<a href="https://www.imdb.com/title/tt5311514">Your name</a>" filmidan olinib, biroz ishlov berilgan.
 
 #
