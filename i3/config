@@ -166,7 +166,7 @@ gaps outer 4
 gaps inner 4
 
 # Set wallpaper 
-exec --no-startup-id feh --bg-scale ~/.config/wallpaper/alone-boy.png
+exec --no-startup-id feh --bg-scale ~/.config/wallpaper/uh-wallpaper.png
 
 # num lock activated
 exec --no-startup-id numlockx on
