@@ -5,7 +5,7 @@
 - **Shell:** FISH
 - **Fonts:** JetbrainsMono + JetbrainsMono Nerd Fonts
 
-### Kerakli paketlar:
+### Kerakli paketlar
 - **alacritty** - terminal
 - **rofi** - dasturlar ro'yxati 
 - **polybar** - status bar uchun
@@ -17,7 +17,7 @@
 - **JetbrainsMono**
 - **JetbrainsMono Nerd fonts**
 
-### O'rnatish
+### Foydalanish
 Config fayllarni githubdan yuklab olamiz:
 ```
 git clone https://github.com/UsmonHamidulloh/dots-i3
