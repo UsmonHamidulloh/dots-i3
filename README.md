@@ -23,7 +23,7 @@ Config fayllarni githubdan yuklab olamiz:
 git clone https://github.com/UsmonHamidulloh/dots-i3
 ```
 Yuklab olgan jildimizga kiramiz:
-```
+```bash
 cd dots-i3/
 ```
 Config fayllarni kerakli joyga nusxalaymiz:
