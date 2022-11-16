@@ -17,6 +17,3 @@ git clone https://github.com/UsmonHamidulloh/dots-i3
 cd dots-i3/
 cp -r .config/ $HOME/
 ```
-
-## Thanks to
-- [Diyorbek](https://github.com/DiyorbekOlimov) for btop configs.
