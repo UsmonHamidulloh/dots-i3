@@ -15,13 +15,7 @@
 ```bash
 git clone https://github.com/UsmonHamidulloh/dots-i3
 cd dots-i3/
-cp -r alacritty/ $HOME/.config/
-cp -r btop/ $HOME/.config
-cp -r i3/ $HOME/.config
-cp -r neofetch/ $HOME/.config
-cp -r polybar/ $HOME/.config
-cp -r wallpapers/ $HOME/.config
-cp picom.conf $HOME/.config
+cp -r .config/ $HOME/
 ```
 
 ## Thanks to
