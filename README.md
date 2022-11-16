@@ -15,7 +15,9 @@
 - **Terminal:** `alacritty`
 - **Launcher and Powermenu:** `rofi`
 - **Status Bar:** `polybar`
-- **Fonts:** `Jetbrains Mono Nerd Fonts`
+- **Fonts:** 
+  - `Jetbrains Mono`
+  - `Jetbrains Mono Nerd Fonts`
 
 ## To Use
 
