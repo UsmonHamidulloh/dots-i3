@@ -1,33 +1,20 @@
 ![Screenshot](assets/dots-i3.png)
 
-- **Operatsion tizim:** Arch Linux
-- **Window Manager:** i3
-- **Shell:** FISH
-- **Fonts:** JetbrainsMono + JetbrainsMono Nerd Fonts
+## What's in?
+- **Window Manager:** `i3`
+- **Compositor:** `picom`
+- **Terminal:** `alacritty`
+- **Launcher and Powermenu:** `rofi`
+- **Status Bar:** `polybar`
+- **Fonts:**
+  - `Jetbrains Mono`
+  - `Jetbrains Mono Nerd Fonts`
 
-### Kerakli paketlar
-- **alacritty** - terminal
-- **rofi** - dasturlar ro'yxati 
-- **polybar** - status bar uchun
-- **feh** - wallpaper qo'yish uchun
-- **flameshot** - skrinshot qilish uchun
-- **picom** - dasturlarga radius berish uchun
+## To Use
 
-### Ishlatilgan fontlar
-- **JetbrainsMono**
-- **JetbrainsMono Nerd fonts**
-
-### Foydalanish
-Config fayllarni githubdan yuklab olamiz:
-```
-git clone https://github.com/UsmonHamidulloh/dots-i3
-```
-Yuklab olgan jildimizga kiramiz:
 ```bash
+git clone https://github.com/UsmonHamidulloh/dots-i3
 cd dots-i3/
-```
-Config fayllarni kerakli joyga nusxalaymiz:
-```
 cp -r alacritty/ $HOME/.config/
 cp -r btop/ $HOME/.config
 cp -r i3/ $HOME/.config
@@ -37,6 +24,5 @@ cp -r wallpapers/ $HOME/.config
 cp picom.conf $HOME/.config
 ```
 
-### Minnatdorchilik
-- [Chick](https://github.com/Chick2D) - neofetch sozlamari uchun
-- [Diyorbek](https://github.com/DiyorbekOlimov) - btop sozlamalari uchun
+## Thanks to
+- [Diyorbek](https://github.com/DiyorbekOlimov) for btop configs.
